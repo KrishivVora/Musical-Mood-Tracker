@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Musical-Mood-Tracker/static/css/main.2e1b2d64.css",
+    "main.js": "/Musical-Mood-Tracker/static/js/main.a69aa246.js",
+    "static/js/787.32c23096.chunk.js": "/Musical-Mood-Tracker/static/js/787.32c23096.chunk.js",
+    "index.html": "/Musical-Mood-Tracker/index.html",
+    "main.2e1b2d64.css.map": "/Musical-Mood-Tracker/static/css/main.2e1b2d64.css.map",
+    "main.a69aa246.js.map": "/Musical-Mood-Tracker/static/js/main.a69aa246.js.map",
+    "787.32c23096.chunk.js.map": "/Musical-Mood-Tracker/static/js/787.32c23096.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1b2d64.css",
+    "static/js/main.a69aa246.js"
+  ]
+}
