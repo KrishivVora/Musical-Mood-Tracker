@@ -1,7 +1,7 @@
 # Musical Mood Tracker
 
 ## Inspiration
-We live in unprecidented times. This has taken a severe toll on our collective mental health. Journaling and Mood Tracking have proven to be effective in helping people be more proactive about their mental well being. Wouldn't it be convinent if you could track your mental health automatically based on your behaviour? Our choice of music often reflects the way we're feeling.
+We live in unprecidented times. This has taken a severe toll on our collective mental health. Journaling and Mood Tracking has proven to be effective in helping people be more proactive about their mental well being. Wouldn't it be convinent if you could track your mental health automatically based on your behaviour? Our choice of music often reflects the way we're feeling.
 
 
 ## What it does
@@ -19,7 +19,7 @@ We are very excited to showcase a succesful project at our first hackathon. We r
 
 
 ## What we learned
-
+We learned a great deal about web application development. We became comfortable working as a team to collaborate and utilize everyones skills. We became familiar with the usage and functionality of the the Spotify API. We were excited to use Mage.AI and were very impressed by how easy it was to use and integrate into our project.
 
 ## What's next for VibeCheck
 We will work on incoperting User Authentication into the website so that everyone can use it. We want to expand and fine tune our dataset to make better predictions. We would like to replace our python backend with javaScript for more efficency.  
